@@ -6,4 +6,5 @@ de freeCodeCamp
 
 //--------CABECERA--------//
 
+![Screenshot](images/screenshot1.jpg)
 
